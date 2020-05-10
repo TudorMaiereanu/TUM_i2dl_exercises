@@ -1,0 +1,8 @@
+.venv
+.vscode
+.DS_store
+datasets/
+__pycache__
+.ipynb_checkpoints
+*.zip
+**/models/
